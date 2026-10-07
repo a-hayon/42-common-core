@@ -4,21 +4,22 @@ Overview of my main projects completed at École 42.
 
 ## C / Unix
 
-- [Libft](https://github.com/TON_USERNAME/libft)
-- [ft_printf](https://github.com/TON_USERNAME/ft_printf)
-- [get_next_line](https://github.com/TON_USERNAME/get_next_line)
-- [Minishell](https://github.com/TON_USERNAME/minishell)
-- [Philosophers](https://github.com/TON_USERNAME/philosophers)
+- [ft_printf](https://github.com/a-hayon/ft_printf)
+- [get_next_line](https://github.com/a-hayon/gnl)
+- [Minishell](https://github.com/a-hayon/minishell_2)
+- [Philosophers](https://github.com/a-hayon/philo)
+- [Minitalk](https://github.com/a-hayon/Minitalkie)
 
 ## Algorithms / Graphics
 
-- [Push_swap](https://github.com/TON_USERNAME/push_swap)
-- [Cub3D](https://github.com/TON_USERNAME/cub3d)
+- [Push_swap](https://github.com/a-hayon/push_swap)
+- [so_long](https://github.com/a-hayon/so_long)
+- [Cub3D](https://github.com/a-hayon/cub3d)
 
 ## C++
 
-- [CPP Modules](https://github.com/TON_USERNAME/cpp-modules)
+- [CPP Modules](https://github.com/a-hayon/CPP))
 
 ## Infrastructure
 
-- [Inception](https://github.com/TON_USERNAME/inception)
+- [Inception](https://github.com/a-hayon/Inception_42)
